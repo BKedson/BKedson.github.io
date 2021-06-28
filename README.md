@@ -1,8 +1,3 @@
-# personal_web
+# Personal Website
 
-TODO
-
-Priority
-    General UI (Font sizes, lines, etc)
-    Pictures for sections
-    NavBar dropdown
+This website was modified from a template created by Brandon Kedson and Henry Chen using HTML, CSS, and Bootstrap. All images are license and attribution free.
