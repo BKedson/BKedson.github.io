@@ -115,14 +115,15 @@ text-decoration: none;
   /* height: auto; */
 
   /* Image is cut off, but fills screen */
-  background-image: url(pictures/placeholder.jpg);
+  background-image: url(pictures/background.jpg);
 
   /* Full image, but doesn't fill screen */
   /* background: url(pictures/placeholder.jpg) no-repeat center center; */
 }
 #name {
   position:relative;
-
+  padding-top: 20%;
+  padding-bottom: 1%;
 }
 #picture {
   position:relative;
