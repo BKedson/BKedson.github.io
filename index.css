@@ -110,13 +110,13 @@ text-decoration: none;
   width: 100%;
   position: relative;
   background-size: cover;
-  background-image:linear-gradient(to bottom right, rgb(0, 0, 200), rgb(0, 0, 115));
+  /* background-image:linear-gradient(to bottom right, rgb(0, 0, 200), rgb(0, 0, 115)); */
   
   min-height: 100%;
   /* height: auto; */
 
   /* Image is cut off, but fills screen */
-  /* background-image: url(pictures/background.jpg); */
+  background-image: url(pictures/splash.jpg);
 
   /* Full image, but doesn't fill screen */
   /* background: url(pictures/placeholder.jpg) no-repeat center center; */
